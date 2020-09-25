@@ -28,7 +28,7 @@ import java.util.List;
  * AlertPush
  */
 
-@javax.annotation.Generated(value = "io.swagger.codegen.v3.generators.java.JavaClientCodegen", date = "2020-09-25T18:20:46.782806+01:00[Europe/Lisbon]")
+@javax.annotation.Generated(value = "io.swagger.codegen.v3.generators.java.JavaClientCodegen", date = "2020-09-25T18:24:45.836079+01:00[Europe/Lisbon]")
 public class AlertPush implements OneOfbody {
   @SerializedName("alertTemplateName")
   private String alertTemplateName = null;
