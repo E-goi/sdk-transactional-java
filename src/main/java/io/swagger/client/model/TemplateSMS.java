@@ -27,7 +27,7 @@ import java.util.List;
  * TemplateSMS
  */
 
-@javax.annotation.Generated(value = "io.swagger.codegen.v3.generators.java.JavaClientCodegen", date = "2020-09-25T18:24:45.836079+01:00[Europe/Lisbon]")
+@javax.annotation.Generated(value = "io.swagger.codegen.v3.generators.java.JavaClientCodegen", date = "2020-09-25T18:25:48.901062+01:00[Europe/Lisbon]")
 public class TemplateSMS {
   @SerializedName("to")
   private List<String> to = new ArrayList<String>();
